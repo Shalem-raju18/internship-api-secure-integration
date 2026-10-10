@@ -1,0 +1,6 @@
+{
+  "name": "EdVyro Internship Board",
+  "description": "Secure full-stack responsive internship board with Node.js Express REST API and SQLite persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
